@@ -9,6 +9,12 @@ int main()
     if(s=="Yes")
     {
         cout<<"Eat Food"<<endl;
+        cout<<"Eat Pizza"<<endl;
+        cout<<"Eat Burger"<<endl;
+    }
+    else if(s=="thirsty")
+    {
+        cout<<"Drink Water"<<endl;
     }
     else
     {
