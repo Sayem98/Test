@@ -10,4 +10,8 @@ int main()
     {
         cout<<"Eat Food"<<endl;
     }
+    else
+    {
+        cout<<"Do your Homework."<<endl;
+    }
 }
